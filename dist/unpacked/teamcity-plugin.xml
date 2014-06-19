@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:noNamespaceSchemaLocation="urn:shemas-jetbrains-com:teamcity-plugin-v1-xml">
+  <info>
+    <name>SlackNotifier</name>
+    <display-name>TeamCity Slack Notifier</display-name>
+    <version>SNAPSHOT-201406191809</version>
+    <description>What your plugin does?</description>
+
+    <vendor>
+      <name>Gert Jansen van Rensburg</name>
+      <url>http://blog.gertjvr.com</url>
+    </vendor>
+  </info>
+</teamcity-plugin>
